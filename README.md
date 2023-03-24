@@ -22,9 +22,9 @@ A cute Data Analysis intern based in Shenzhen.
 
 
 ### 🌐 Website
-* **CSCourse : *https://cscourse.cn***
-* Algorithm : *https://algorithm.show*
-* CTF Organization : *https://ctflag.org*
+* **SQL : *https://sqlzoo.net/wiki/SQL_Tutorial***
+* **FreeGPT : *https://freegpt.one/***
+* **UseGPT : *https://github.com/f/awesome-chatgpt-prompts***
 
 
 ### 🏆 Github Status
