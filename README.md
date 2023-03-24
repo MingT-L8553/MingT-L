@@ -38,7 +38,7 @@ A cute Data Analysis intern based in Shenzhen.
 ### 🏆 Github Status
 
 
-Refer to: https://github.com/Arshiamidos/arshiamidos
+<!--Refer to: https://github.com/Arshiamidos/arshiamidos-->
 <a align="center" href=""> 
 
 <p align="left">
