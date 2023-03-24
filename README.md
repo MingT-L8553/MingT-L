@@ -4,10 +4,10 @@ A cute Data Analysis intern based in Shenzhen.
 
 <!-- first row -->
 <p align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="25" height="25"/> 
 <a href="https://arash-hacker.github.io">
     <img alt="GitHub" src="https://img.shields.io/github/followers/MingT-L8553?style=social">
 </a>
-
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
 
@@ -45,3 +45,16 @@ Refer to: https://github.com/Arshiamidos/arshiamidos
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=MingT-L8553&show_icons=true" alt="my github stats" width="420"/>&nbsp; -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingT-L8553&layout=compact" alt="languages" height="165">
 </p>
+
+    
+<!-- dancy gifs -->
+<!-- <p align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif" width="25" height="25"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="25" height="25"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
+</p> -->
